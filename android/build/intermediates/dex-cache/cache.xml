@@ -57,6 +57,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/dexstar/Programming/Workspace/ReactNative/RN_Course/android/app/build/intermediates/exploded-aar/RN_Course/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/dexstar/Programming/Workspace/ReactNative/RN_Course/android/app/build/intermediates/pre-dexed/debug/RN_Course-react-native-vector-icons-unspecified_a2ac1b356fe66fd4d07bf7a3369dc7d938cfd9d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/dexstar/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"
