@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/dexstar/Programming/Workspace/ReactNative/RN_Course/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/Users/dexstar/Programming/Workspace/ReactNative/RN_Course/android/app/build/intermediates/exploded-aar/RN_Course/react-native-navigation/unspecified/res/menu/search_item.xml"
+    },
+    {
+        "merged": "/Users/dexstar/Programming/Workspace/ReactNative/RN_Course/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/Users/dexstar/Programming/Workspace/ReactNative/RN_Course/android/app/build/intermediates/exploded-aar/RN_Course/react-native-navigation/unspecified/res/menu/stub.xml"
+    }
+]
