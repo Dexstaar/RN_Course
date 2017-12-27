@@ -1,5 +1,6 @@
 import { Navigation } from "react-native-navigation";
 import Icon from "react-native-vector-icons/Ionicons";
+import { View, Text, Dimensions, StyleSheet } from "react-native";
 
 const startTabs = () => {
   Promise.all([
@@ -35,7 +36,6 @@ const startTabs = () => {
                 icon: sources[2],
                 title: "Menu",
                 id: "sideDrawerToggle"
-
               }
             ]
           }
@@ -43,7 +43,9 @@ const startTabs = () => {
       ],
       drawer: {
         left: {
-          screen: "awesome-places.SideDrawer"
+          screen: "awesome-places.SideDrawer",
+          percentOfScreenWidth: 0.8,
+          disableOpenGesture: false
         }
       }
     });
